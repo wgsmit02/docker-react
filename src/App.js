@@ -14,7 +14,7 @@ class App extends Component {
           className="App-logo"
           alt="logo" />
         <p >
-          Edit <code> src / App.js </code> </p>
+          Edited at 3:23</p>
         <a className="App-link"
           href="https://reactjs.org"
           target="_blank"
